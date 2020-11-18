@@ -60,12 +60,12 @@
 			children = (
 				322C28EB2561A6D100FEA5B5 /* AppDelegate.swift */,
 				322C28ED2561A6D100FEA5B5 /* SceneDelegate.swift */,
-				325D23B525648ED60051088E /* ChecklistItem.swift */,
 				322C28EF2561A6D100FEA5B5 /* ChecklistViewController.swift */,
 				322C28F12561A6D100FEA5B5 /* Main.storyboard */,
 				322C28F42561A6D600FEA5B5 /* Assets.xcassets */,
 				322C28F62561A6D600FEA5B5 /* LaunchScreen.storyboard */,
 				322C28F92561A6D600FEA5B5 /* Info.plist */,
+				325D23B525648ED60051088E /* ChecklistItem.swift */,
 			);
 			path = Checklists;
 			sourceTree = "<group>";
